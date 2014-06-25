@@ -1,4 +1,4 @@
-<h1>File Encryption PoC in Go!</h1>
+<h1>File Encryption in Go!</h1>
 Credits:
 
 http://play.golang.org/p/ruvILKydpM -AES String Encrypt
